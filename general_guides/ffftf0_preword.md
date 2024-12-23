@@ -21,8 +21,8 @@ own. Hope this helps!
 
 ## Preword
 
-I made a thread recently on r/mtf asking if people on this sub and other similar
-spaces would be of service, and well the reception was positive so here we go. I
+From asking trans fem friends and online spaces with/for trans fem communities,
+the idea of such a guide has been positively received/requested so here wo go. I
 want to start by clearly and explicitly stating, none of the info here is needed
 so to say. Clothes are ultimately ways to protect ourselves from the 
 environment, kept clean, and everything else is a bonus. Passing is also a 
@@ -122,4 +122,27 @@ etc so I do not feel fully competent/comfortable in say making a guide for level
 ways I am not happy in, but it could have been worse anyways, and I am only one
 body type either way. That category will effectively be a work in progress until
 there are significant contributions from trans feminine people with different
-lived experiences proportions etc. Anyways, onwards to level 1!
+lived experiences proportions etc.
+
+## Warning: common things to avoid
+
+This is a pretty harsh list, but I would recommend taking these warnings more
+seriously for those who want to take being more fashionable seriously, not even
+necessarily just passing.
+
+Don't be a stereotype girlies. In particular, a stereotype that coincides with a
+lot of archetypical femboy online identity attire and looks out of place in
+practice. Don't do the thigh highs, just do tights if the weather calls for it,
+don't overuse skirts especially if you don't already have a solid foundation of
+fashion fundamentals and have experienced it through lived experiences for some
+time. Be very careful about leggings. 
+
+Don't just directly try and copy paste what you see cisgender women in your life
+wearing, our bodies most likely are quite different in some ways that may end up
+creating very uncanny outfits and appearances. The worst offender I have seen of
+this tend to be form-fitting business casual attire, jeans, and practically
+anything with spaghetti straps whether it be bags or bras or tops. It can work
+for some but I would advice a strong degree of caution and comprehension before
+trying. When I mention stuff like looking towards what you cool looking female
+presenting people in your day to day wearing, it's more as a point of general
+insipiration and ideas, not as a direct reference. Anyways, onwards to level 1!
