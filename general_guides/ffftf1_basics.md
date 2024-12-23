@@ -216,7 +216,7 @@ own, this is to serve as a basic introduction and reference point. Fashion is
 not a science, so at some point you gotta get a feel for seasonality and all
 these topics in general, but I hope this helps.
 
-Section 3: Colour cont.
+## Section 3: Colour cont.
 
 Ok well what about everything that’s not black white grey and blue? Good
 question, I’ll keep overviews of other colours/shades of them pretty brief

@@ -1,14 +1,25 @@
-Reading guide
+## Reading guide
 
-Specific articles of clothing are coloured in pink, fashion-specific terminology
-are coloured in blue. There’s an index at the end so people who have not heard 
-this terminology before can look at a definition for it, plus hopefully a link 
-showing an example. Key concepts are italicized, there’s no convenient way to 
-look these up obviously but it’s there to reward readers to have something focus
-on more.
+Structurally, this guide is a set of plain English text-based markdown documents
+sorted out in a set of folders/directories meant to be logical. For the purpose
+of simplicity, I have made a folder just for images which I refer to throughout
+the text-based components of this repository (basically, the "digitally stored
+set of documents and the folders they are contained in"), their exact names used
+in the markdown documents are what the image files are also named, so there will
+be formatting such as red_cocktail_dress within these documents which are the
+exact same to search, and since underscores are used in this naming it should
+hopefully be distinct enough as an indication of when things have a paired
+image to go to. The horizontal width of the amount of characters/words in these
+documents are done to, among other reasons, make reading by scrolling down easy
+and to be able to comfortably have the documents occupy half a 1080p computer
+screen or whatever other half of a modern horizontal display or all of a modern
+vertical display you have on your device(s). There are no website links used in
+this guide, as the idea is this fully file-based format is much more shareable.
+As such to simplify things, every image will include a section of text at the 
+bottom to cite/give credit to wherever the source image is from if it is not my
+own. Hope this helps!
 
-
-Preword
+## Preword
 
 I made a thread recently on r/mtf asking if people on this sub and other similar
 spaces would be of service, and well the reception was positive so here we go. I
@@ -53,8 +64,8 @@ Level 1
 Level 2
   Distinctions of women's fashion
     Hmm why woman label shirt different than man label shirt
-Levl 3
-  Disctions of different clothing cuts and fabrics
+Level 3
+  Distinctions of different clothing cuts and fabrics
     In particular how they work with different body types
 Level 4
   Niche categories
