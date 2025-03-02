@@ -795,3 +795,108 @@ problem. I would try and find a time every week to wash and dry them off, and
 remember that some of these are pretty sensitive to machine drying (which btw
 you should minimize machine drying whenever possible but hey if it's wintertime
 and you don't got indoor space like that I get it).
+
+## Semi-formal
+
+Before I go on any longer, I should mention that these broad levels of formality
+have been discussed before, this is not a new concept. I ended up coincidentally
+ending up on moreorless the same set of formalities as a video from a youtuber
+which I will link here (apologies in the future if this vid is removed/you don't
+have internet at the moment): https://www.youtube.com/watch?v=arVVrJn7rss&t=565s
+
+The five phrases I like to use for these categories of formality are: CBA,
+athleisure, streetwear, semi-formal, and formal. They use: sleep & loungewear,
+activewear, unpolished casual, polished casual, dressy. Which are basically the
+same concept. This video also does a sort of quantitative ananlysis of how often
+the creator wore clothes from each occassion and tried to budget accordingly to
+that, which is cool, but I think also not very applicable to the average
+audience of this guide. Put simply, I think it does not make sense for baby
+trans fems to put money into loungewear. I actually kinda avoided this category
+alltogether, and gave a lot more credit to "unpolished casual" basically
+splitting it up into two, as I do not think it is really worth my time to talk
+about feminine loungewear, it really doesn't matter what you wear in the house
+aside from like wearing something homey and cute to impress someone you have
+over for a stay at home date (so like one or two sets of fem PJs or like home
+shorts + top set is good enough). So in place of "unpolished casual", I have
+CBA and streetwear and avoided loungewear alltogether. But the point is that the
+stuff I am discussing here is somewhat universal as it is ultimately fashion
+fundamentals. If you are interested in checking out more of this creator's
+videos, I will say they are quite a bit more like "what celebrities are wearing
+on a day out" sort of looks and not really practical for making an smaller more
+efficient and affordable wardrobe that can still work as fem, but I think seeing
+different prespectives is good for sure! Arguably this same distinction can be
+applied to a lot of fashion youtubers aimed at cis women who already have some
+sort of wardrobe one way or another, there is a a sort of assumption that basics
+have already been acquired and it goes a notch or two up.
+
+So what does semi-formal look like in practice? Well it gets pretty interesting
+within the realm of formality/niches as we are now in the territory of mens and
+womens fashion diverging a lot. Before, if you were for example before
+transition someone who could dress like ok, besides the proportion stuff and how
+to use skirts and how to uh avoid leggings, there is not much different from
+comptently dressed streetwear and CBA stuff in men's fashion. Now you could just
+go live your butch best life here and not think about it too much, even then you
+should at least go try and find women's slacks and stuff with the waist
+proportions to look butch over a cis dude but I digress. Stuff like skirts, some
+dresses, some side bags, accessories like necklaces and the like become more
+prominent in this category. I can't touch on this topic too much in level 1, as
+there is a lot of specifically women's clothing I would like to leave for level
+2 to grasp what is appropriate here, but the main idea is to be aware of this.
+Something to keep in mind is that a lot of people can actually avoid various
+parts of this level of formality depending on your age demographic, stuff you
+get up to in your day to day life etc. 
+
+I think in practice, there are two main use cases of this level of formality,
+some may only care for one or neither. One is if you are in environments with
+other people whom wear semi-formal stuff fairly regularly, so maybe your office
+tends to have a dress code wear you see the average female coworker of yours is
+a bit elevated past streetwear, or you go to some idk fancy reading club and see
+that the ladies dress semi-formal. The other use case is for events that are not
+quite formal events. I would include for example, going clubbing or a girl's
+night or whatever here, or frankly any specific event that is not quite a formal
+mood but you still want to look nice for in a way that's more flattering than
+just cool streetwear. I think a good example of this is a workplace conference,
+it's not quite at the level of like suits and gown dresses and stuff for most
+people, but it would be nice to go above and beyond what you usually do. For
+example a dress that's not quite something you can use in streetwear nor a
+sundress or something, but is also not like some super fancy dress to wear to a
+fancy dance event. Another common instance for this level of formality is... a
+date! Maybe not all dates, but if it's a dinner/drinks during the night date I
+would say it is quite applicable. With all that said you could absolutely be
+someone who presents more streetwear in such circumstances and nobody will realy
+bat an eye if the outfit is put together competently, it's moreso in the next 
+category where you kinda need to be following it if there is an event that calls
+for it.
+
+## Formal
+
+This is also a category where things significantly diverge from men's fashion of
+formal clothing, but it is luckily simple enough that I can just mention a
+reasonable summary of here. Basically, have one fancy dress for fancy events,
+and one nice but not like particularly form-revealing black dress for funerals
+(if you are in a culture that does the whole formal black attire for funerals
+thing anyways), a set of shoes bag accessories that goes well with these two
+dresses or better yet both, and that's kinda it. These events for most people
+tend to happen infrequently enough that you could just hold off on buying these
+items until you are actually planning to attend one such event, but it could be
+good to vaguely be on the lookout for items that fit in this category if you
+find an item that really speaks to you or something great thrifted (for example
+I was out thrifting one day and happened to find a black leather bag/purse that
+I am very happy with which I can use for funerals, other formal events, and 
+arguably level 4 semi-formal stuff too). I would say that this category and
+athleisure are the easiest to conceptualize actually, and formal stuff is
+probably the easiest outright to get items for since it is so few (with a fair
+disclaimer that it will likely be difficult to find items in this tier for
+reasonable prices unless you are really locked in with the thrifting). CBA tends
+to be pretty simple but I would argue still not quite as much as those two,
+especially when you start getting to levels of effort that are close to a
+competent streetwear outfit. I think for someone who's already done alright for
+themselves with men's fashion and streetwear then streetwear is probably the 
+next most difficult as with semi-formal there is the highest amount of stuff to
+actually learn that is unique to women's fashion and more complicated than "just
+put on a dress lol", but for the girlies who just generally have not fashioned
+before (which I just want to say is ok and valid, please don't feel bad, this
+guide is made for you <3), then streetwear will likely be the most difficult as
+it is the most expressive category overall on a practical basis and will be what
+is worn outside and perceived by others most often for a majority of readers.
+Onto level 2!
