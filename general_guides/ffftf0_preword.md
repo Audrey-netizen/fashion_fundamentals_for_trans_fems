@@ -1,20 +1,20 @@
 ## Reading guide
 
 Structurally, this guide is a set of plain English text-based markdown documents
-sorted out in a set of folders/directories meant to be logical. For the purpose
-of simplicity, I have made a folder just for images which I refer to throughout
-the text-based components of this repository (basically, the "digitally stored
-set of documents and the folders they are contained in"), their exact names used
-in the markdown documents are what the image files are also named, so there will
-be formatting such as red_cocktail_dress within these documents which are the
-exact same to search, and since underscores are used in this naming it should
-hopefully be distinct enough as an indication of when things have a paired
-image to go to. The horizontal width of the amount of characters/words in these
+sorted out in a set of folders/directories meant to be logical. For now there is
+only this text, but later updates of this guide will hopefully have both some
+images or video links of the concepts and items I am discussing, and once that
+is done get some pictures of outfits of my own relevant to a given part of the
+guide from me and maybe if later others are comfortable others as well for some
+body and wardrobe diversity, but that is quite far away from the current version
+present. The horizontal width of the amount of characters/words in these
 documents are done to, among other reasons, make reading by scrolling down easy
 and to be able to comfortably have the documents occupy half a 1080p computer
 screen or whatever other half of a modern horizontal display or all of a modern
-vertical display you have on your device(s). There are no website links used in
-this guide, as the idea is this fully file-based format is much more shareable.
+vertical display you have on your device(s). I may end up sharing some videos
+in reference to parts of the guide later, but the issue is that those are not as
+shareable ie need internet access, the video creators or ie youtube could remove
+the videos at any point etc. So I prioritize actual files for this repository. 
 As such to simplify things, every image will include a section of text at the 
 bottom to cite/give credit to wherever the source image is from if it is not my
 own. Hope this helps!
