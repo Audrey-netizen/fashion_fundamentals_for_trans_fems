@@ -181,4 +181,12 @@ reasonable.
 You'll notice that the only two articles of clothing I talked about in level 1
 were leggings and skirts, and that is because I see baby transfems buy these
 two items very often so I wanted to throw in the info/warnings earlier since
-reader retention is a thing.
+reader retention is a thing. This guide will be sticking to a relatively basic
+level so do not expect everything* to be covered that is not really feasible and
+honestly I only know so much. I will try going over more basic categories for
+now, and go over skirts a bit more in depth as well as there are various types
+worth mentioning (with leggings you just kinda have leggings they're skintight
+not much more to it, if you want to get a zany colour or low or high waisted or
+whatever you do you boo).
+
+

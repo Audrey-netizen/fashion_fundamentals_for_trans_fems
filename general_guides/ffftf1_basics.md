@@ -1,4 +1,4 @@
-## Section 1: Colour
+## Colour
 
 I wish I didn’t have to do this, but really this guide needs to start with 
 absolute basics, because good lord I have seen some bad combos from femmes in 
@@ -150,7 +150,7 @@ complexion. What specific type of blue works then? Well it’s up to you, there�
 also the idea of darker blues being more fitting with colder/darker climates and
 days and lighter blues working in warmer/sunnier settings. So here we go with: 
 
-## Section 2: Seasonality
+## Seasonality
 
 Have a different set of colours fit for each season? That sounds pretty stupid,
 I don’t wanna buy an article of clothing for 4 months. Or what if I live in a 
@@ -216,7 +216,7 @@ own, this is to serve as a basic introduction and reference point. Fashion is
 not a science, so at some point you gotta get a feel for seasonality and all
 these topics in general, but I hope this helps.
 
-## Section 3: Colour cont.
+## Colour cont.
 
 Ok well what about everything that’s not black white grey and blue? Good
 question, I’ll keep overviews of other colours/shades of them pretty brief
@@ -396,7 +396,7 @@ rankings/frequency as their blue red green counterparts. That’s a lot, but I�
 confident in saying this is a comprehensive breakdown of colour in fashion at a
 fundamental level.
 
-## Section 4: Seasonality cont.
+## Seasonality cont.
 
 To wrap up seasonality in a context outside of colour, I’ll keep it practical.
 Personally I live in a place that gets as low as -20 Celsius in the wintertime
@@ -416,7 +416,7 @@ being comfortable in the season and you can’t afford to buy femme equivalent(s
 for it, that’s ok. A wardrobe overhaul like this doesn’t happen overnight. If
 you live in a place with less seasonal variance, lucky you lol
 
-## Section 5: Formality and fashion niches
+## Formality and fashion niches
 
 Big shake up now, we’re still in fashion fundamentals but it’s much less 
 something we can think of in a vacuum. At the simplest level, in public there
@@ -453,7 +453,7 @@ fashion niche/style sections coming up are more explicit in terms of clothing
 items, there are some basic items mentioned that cast a wide net across the 
 style and hopefully can be used in other styles as well.
 
-## Section 6: The “style” of CBA
+## The “style” of CBA
 
 The first niche here is that of CBA aka can’t be asked. Technically this is not
 a basic fashion niche people formally categorize hence my funny naming 
@@ -588,7 +588,7 @@ which goes against the whole point. The upcoming category is also fairly simple,
 but onwards it opens up *significantly* to the point that I can only mention a
 few suggestions out of the ocean out there. Anyways onto:
 
-## Section 7: Athleisure
+## Athleisure
 
 Even if you really don’t follow the fashion stuffs and things before now you 
 might have heard this term before. From my memory as a stupid egg kid, 
@@ -625,7 +625,7 @@ stuff and can afford ones which are nice enough to go onto CBA/the upcoming
 section outfits, that’s great. But broadly speaking for people who aren’t 
 intrinsically drawn to athleisure, that’s as far as I’d suggest taking it.
 
-## Section 8: Streetwear
+## Streetwear
 
 Ok this is the big one, which I will not nearly be able to sufficiently go over.
 I honestly had a hard time determining what between colour and streetwear is 
