@@ -60,7 +60,7 @@ are simply interested in fashion) and don’t know where to start.
 For simplicity’s sake, let’s think of fashion in our contexts in 5 levels. 
 Level 1
   Fashion fundamentals
-    Baby steps ok? Colour, seasonality, formality, versatility etc
+    Baby steps ok? Colour, seasonality, formality, versatility, basic items etc
 Level 2
   Distinctions of women's fashion
     Hmm why woman label shirt different than man label shirt
@@ -101,7 +101,7 @@ woman, this is worth bringing up because while I may at time bring up specific
 traits or clothing silhouettes and the like to follow, know that it is quite
 optional as I don't even follow them much of the time (but again, if passing is
 a safety/more urgent priority for you then you may want to take it more 
-seriously. Ultimately I’m just one person with one set of circumstances and 
+seriously). Ultimately I’m just one person with one set of circumstances and 
 body, obviously if you do not have the same circumstances and body type for 
 whatever example just ignore the info. But I know enough about fashion 
 fundamentals to feel competent making this level 1 guide, from being pretty 
@@ -119,10 +119,14 @@ process of “revamping the wardrobe”. Additionally, I have some hefty pretty
 privilege in regards to some appearances and stuff like silhouette proportions
 etc so I do not feel fully competent/comfortable in say making a guide for level
 3. There are still some ways in which testosterone has indeed scarred my body in
-ways I am not happy in, but it could have been worse anyways, and I am only one
+ways I am not happy in, but it could have been more anyways, and I am only one
 body type either way. That category will effectively be a work in progress until
 there are significant contributions from trans feminine people with different
-lived experiences proportions etc.
+lived experiences proportions etc. I still have some contents included there as
+I have tried to help/work with transfem friends of mine to find types of 
+clothing that suit them better, but either way I would not consider that section
+"solid advice" until I hear from or get contributions from trans girlies with
+all sorts of body types, as ultimately I only live life with my silhouette.
 
 ## Warning: common things to avoid
 
@@ -145,4 +149,6 @@ anything with spaghetti straps whether it be bags or bras or tops. It can work
 for some but I would advice a strong degree of caution and comprehension before
 trying. When I mention stuff like looking towards what you cool looking female
 presenting people in your day to day wearing, it's more as a point of general
-insipiration and ideas, not as a direct reference. Anyways, onwards to level 1!
+insipiration and ideas, not as a direct reference. There are warnings I have for
+specific articles of clothing as well, but I'll wait until the section where
+said items are discussed. Anyways, onwards to level 1!

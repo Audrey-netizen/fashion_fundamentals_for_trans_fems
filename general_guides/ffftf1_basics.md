@@ -570,7 +570,7 @@ have a lot of tops which cut off around this line, but if you care for passing
 it helps to have the line either be around new/femme waist*, think a bit above
 your belly button and right at or below the bottom of your ribcage, or have a 
 top that goes far down enough roughly the other way around. So you can think of
-it in 65/45s instead of 50/50 if that makes sense. I think one of these 65/45s 
+it in 60/40s instead of 50/50 if that makes sense. I think one of these 60/40s 
 is needed to make a more fitting top work for us early on, ie higher up pants
 for a tighter top or a hoodie that falls well below hip line for leggings.
 
@@ -578,7 +578,7 @@ Last mention, crop tops. These work with a femme CBA outfit, but I’d argue it�
 pretty tricky without first having an understanding of personal proportions aka
 level 3 stuff. Would probably suggest holding off on it for now, but again if
 the item makes you happy go for it. I just strongly recommend you also set it
-with women’s fit bottoms (so you can do the 65/45 with the 65 being the bottoms)
+with women’s fit bottoms (so you can do the 60/40 with the 65 being the bottoms)
 not some men’s skinny jeans or whatever, we’re not trying to look like Gappy
 here (shoutout to the 5 people who got this reference).
 
@@ -678,7 +678,9 @@ stuff you can find which end up working in the right outfits or even defining
 your wardrobe. That’s a concept which I will keep brief here, there should
 eventually be some pieces you find so magical so high quality such a good match
 for you they end up being staples of your wardrobe and even in some ways warping
-your future purchases to meld around them.
+your future purchases to meld around them. From here onwards I will go over some
+articles of clothing which can be found in streetwear but are also yknow common
+articles of clothing.
 
 Anyways hats. Now is a good time to talk about hats. Technically if it’s cold
 enough you can/should be wearing hats with CBA and athleisure (which btw do fall
@@ -710,23 +712,25 @@ main thing is just if you spend a lot of time on hair, hats might get in the way
 hair with a hat style in mind. Worth considering.
 
 Now the item everyone’s been waiting for, skirts. Disclaimer, I personally
-almost never wear skirts, I have them but I just prefer this silhouette found
+almost never wear skirts, I have them but I just prefer the silhouette found
 with pants. So yknow, don't feel pressured to have to included skirts in your
 wardrobe, but of course I understand that it can be really fun to start messing
 around with for the first time. In terms of the item itself, there’s two main
-focuses and the rest is about how to incorporate a skirt intoan outfit. 1: get a
-skirt that wraps around your new waistline*, probably a bit more on the tighter
-side rather than looser if that makes sense since if you’re early in transition
-your waist will likely get thinner with hrt and exercise if you choose to 
-heavily invest there. 2: make sure the rest is not form-hugging. This is
-important because we want the looseness of the rest of the skirt to create the
-image of the wider hips/legs. But as with the leggings if you do have wider hips
-then sure go for the pencil skirt. Also important because bulge and all that if
-you care, and more particularly how different walks and posture on your end and
-impacts of wind can affect le bulge visibility different from pants and shorts.
-I would go into specifics about skirts past this but that’s not what level 1 is.
+focuses and the rest is about how to incorporate a skirt into an outfit. 1: get 
+a skirt that wraps around your new waistline*, probably a bit more on the
+tighter side rather than looser if that makes sense since if you’re early in 
+transition your waist will likely get thinner with hrt and exercise if you 
+choose to heavily invest there. 2: make sure the rest is not form-hugging. This 
+is important because we want the looseness of the rest of the skirt to create 
+the image of the wider hips/legs. But as with the leggings if you do have wider
+hips then sure go for the pencil skirt. Also important because bulge and all 
+that if you care, and more particularly how different walks and posture on your
+end and impacts of wind can affect le bulge visibility different from pants and
+shorts. For the strong majority of trans fems especially baby transfems, I beg
+of you please stick to looser skirts. I would go into specifics about skirts 
+past this but that’s not what level 1 is.
 
-Why is this in the streetwear section? You can wear skirts in streetwear… duh. 
+Why is this in the streetwear section? You can wear skirts in streetwear, duh. 
 This doesn’t mean all types of skirts though, you can think of it similarly to
 pants, more formal slacks (usually) don’t work with streetwear or at least are
 not as easy to execute. There are kinds of skirts that work better for
@@ -764,4 +768,30 @@ say it’s good to keep it simple with other pieces in an outfit with a pea coat
 as well, so like no prints maybe some fabric patterns in one item, thickness of
 other pieces as previously mentioned can be either thick/very thin with thicker
 pea coats or more intermediate fabric thickness with appropriately intermediate
-coats.
+coats. I will add, if you are in a location which has winters cold enough that
+you deem it appropriate to have full insulating parka(s), then I would suggest
+to get that in black, and the pea coat in either like a grey or lighter brown.
+I would lean towards the grey if you do not have much in the way of items in the
+muted blue various shades of brown whites etc office casual colour palette.
+
+As far as parkas, puff jackets, down jackets whatever you want to call them, the
+poofy synthetic jackets that keep you especially warm, keep it simple stupid. I
+would recommend to those whom are inexperienced with fashion to just get a long
+and I mean long like around your knee length or lower women's pea coat. That 
+type of silhouette is one that reads as "women's synthetic coat", the other is
+ones where the lowest part is at that higher up female waistline. Which sure
+looks cute but A: legit does a worse job at keeping you warm in the winter and
+B: makes you have to tuck which is ugh. If you highly prioritize being read as
+female tho and don't mind more tucking I would say it is worth it, because the
+longer coats are arguably a bit on the androgynous side as well and you see it
+somewhat often with some more fashionable younger guys. But yes, I would stick
+to a black one first either way. Presumedly you will use this coat a lot, it's
+boring to get it in black but trust me it is worth it overall to have the most
+uninteresting/stable looking pea coat. And uh, please remember to wash these
+regularly, most people wear their one or two winter coats multiple times a week
+and they naturally absorb scents more with the insulation, plus in the winter
+more households tend to keep their windows closed which contributes to this
+problem. I would try and find a time every week to wash and dry them off, and
+remember that some of these are pretty sensitive to machine drying (which btw
+you should minimize machine drying whenever possible but hey if it's wintertime
+and you don't got indoor space like that I get it).
