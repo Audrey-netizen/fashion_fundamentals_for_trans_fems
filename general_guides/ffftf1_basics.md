@@ -1089,7 +1089,7 @@ present in men's fashion as well, that do not quite fit into streetwear.
 ## Blazers
 
 So some fun things that tend to be different with women's blazers: common to
-find them following "women's waistile" maybe not like the bottom of it cuts off
+find them following "women's waistline" maybe not like the bottom of it cuts off
 there, but can go a bit lower but still not as low as average men's blazers, and
 there tends to be much more of the pinching of waists found in women's blazers.
 On the other hand, you can also find blazers that go well below the hips so
