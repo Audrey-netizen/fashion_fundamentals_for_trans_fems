@@ -1,4 +1,4 @@
-## Proportions
+# Proportions
 
 I will start by saying, average feminized and masculinzed silhouettes are a lot
 less different than transphobes may want you to believe. For the most part there
@@ -133,7 +133,7 @@ or maybe 70:30 or maybe even lower and the rest is either legs or tights (well
 you can also do stuff like pants under dresses or layer dresses but I think
 that's a bit too advanced for this guide :))
 
-## Differences from men's fashion
+# Differences from men's fashion
 
 In our current society and its views on gender presentation and freedoms, men
 are truly oppressed frfr I am not even joking. Women can wear basically anything
@@ -189,5 +189,12 @@ worth mentioning (with leggings you just kinda have leggings they're skintight
 not much more to it, if you want to get a zany colour or low or high waisted or
 whatever you do you boo).
 
-# Camisoles
+## Camisoles
+
+I remember when I first heard this term I was thinking "what why would I add
+camel soles to my wardrobe", and I still don't understand why this is a thing
+
+## Bodysuits
+
+Ok so basically, at least
 

@@ -1,4 +1,4 @@
-## Colour
+# Colour
 
 I wish I didn’t have to do this, but really this guide needs to start with 
 absolute basics, because good lord I have seen some bad combos from femmes in 
@@ -8,7 +8,9 @@ to make combos work. This is usually just for logistic reasons, people don’t
 want a wardrobe of one colour, and they don’t want to just wear their clothes in
 the same combination, so items and thus colours get mixed and matched.
 
-With that said, I will go against these statements/wants for the first piece of
+## Black
+
+Scrap that, I will go against those statements/wants for the first piece of
 advice: just buy black. When I say colour yeah that includes black and white and
 greys, but anyways why is the advice “just buy black” and not any other colour?
 Well, black is overall for the most clothing articles and fashion niches and 
@@ -44,7 +46,9 @@ everyone to get a goth wardrobe (as cute as goth girls are 😔), the point is
 that if you’re absolutely clueless about colour as a fashion concept, black is 
 the hardest one to mess up. So this is the most absolute basic lesson.
 
-But for the people who want more variety in their wardrobe, we can move on to 
+## White
+
+Now for the people who want more variety in their wardrobe, we can move on to 
 other colours. Well sort of, first let’s cover white and grey. White is… good, 
 but yknow it gets dirty. And that’s a big deal when/if we’re doing a whole-ass 
 fashion overhaul, buying an item that will get dirty quickly is an awful idea 
@@ -65,6 +69,8 @@ for it! There is also a look that can be cultivated from beat down/dirtied white
 pieces, but I will assume that you’re not at that level yet and this is probably
 a bad idea. Dirty white clothes probably = slobby look.
 
+## Grey
+
 Grey is cool, I like grey. Lighter shades are kinda like white but with way less
 noticeable dirtying issues. Meanwhile dark grey is very much its own colour and
 I’d argue an extremely useful and versatile one. And neutral grey is cool too!
@@ -84,6 +90,8 @@ Similarly to how someone could hypothetically straight up have an all-black
 wardrobe, an “all-shades” wardrobe is also technically possible. If you want to
 venture past this point it’s really up you, but most people do since colours are
 pretty fun!
+
+## Actual colours frfr
 
 Past this point, colour stops being so convenient. For example, the shade of 
 blue used in medium wash denim* is more useful/versatile than all shades of 
@@ -140,6 +148,8 @@ of these suggestions are just that, suggestions, not mandatory. The point is, I
 just want it to all be in one place in a context considering the position of 
 trans fem.
 
+## Blue
+
 Anyways, why is blue so versatile anyways? Well, most people’s skin colour and
 undertone have some combination of yellow pink and brown, and as it turns out 
 blue contrasts with all of these pretty smoothly. Our skin colour/undertone is
@@ -150,7 +160,7 @@ complexion. What specific type of blue works then? Well it’s up to you, there�
 also the idea of darker blues being more fitting with colder/darker climates and
 days and lighter blues working in warmer/sunnier settings. So here we go with: 
 
-## Seasonality
+# Seasonality
 
 Have a different set of colours fit for each season? That sounds pretty stupid,
 I don’t wanna buy an article of clothing for 4 months. Or what if I live in a 
@@ -216,12 +226,16 @@ own, this is to serve as a basic introduction and reference point. Fashion is
 not a science, so at some point you gotta get a feel for seasonality and all
 these topics in general, but I hope this helps.
 
-## Colour cont.
+# Colour cont.
 
 Ok well what about everything that’s not black white grey and blue? Good
 question, I’ll keep overviews of other colours/shades of them pretty brief
 because it starts to get fairly personalized based on one’s complexion from here
-onwards. Brown is probably the next one to go over. Brown has a functional
+onwards. 
+
+## Brown
+
+Brown is probably the next one to go over. Brown has a genuine functional
 reason for historically existing in fashion due to leather, various treatments
 of leather turn out into shades of brown. If you don’t want to support/purchase
 animal-based clothing products, this functional reason goes away. But still,
@@ -237,6 +251,8 @@ certain level of maturity/groundedness that I personally don't want to associate
 as much with, might sound complex because it is but that's just me. The point is
 that these sections on colour are for giving you context and guidelines (but
 seriously plz follow the part on black and greys if you're new to this stuff).
+
+## Red and green
 
 Ok that’s five, what next? Red and green probably. The “safe” varieties of these
 two are the aforementioned maroon red and olive green. They’re the most common
@@ -296,6 +312,8 @@ mediterranean These latter three (pale red, pale green, teal) are easier to use
 than the high saturation trio mentioned, but do not work on as many different
 skin complexions and undertones as navy blue maroon red and olive green do.
 
+## Pink and orange
+
 Ok so those other basic colours, yellow orange purple pink, where do they fit
 in? Well you can just argue pink and orange to be different shades/saturations
 of red and brown respectively, which is objectively true but it stops being as
@@ -314,6 +332,8 @@ your own skin complexion here. Depending on undertone these two can just wash
 into your skin, identify if this is the case for you. If so, I would generally
 advise staying away from them as a beginner, but with enough understanding they
 can work out well enough and as always you can just not care about this advice.
+
+## Yellow and purple
 
 Yellow and purple are the final pair of colours left, and it shouldn’t be 
 surprising since they’re opposite colours but their roles are pretty different. 
@@ -339,6 +359,8 @@ a universal rule however, for example bright highly saturated yellow and purple
 can look great on the same time of darker complexion person whom bright green
 pops with, and more muted/pastel yellow and purple work with someone who would
 still be considered to have a darker complexion but perhaps a notch or two down.
+
+## Basic wardrobe colour flowchart
 
 Once this basic colour journey is done, you should have a sort of palette to 
 follow. Within different colours there are many minute synergies about ie just
@@ -396,7 +418,7 @@ rankings/frequency as their blue red green counterparts. That’s a lot, but I�
 confident in saying this is a comprehensive breakdown of colour in fashion at a
 fundamental level.
 
-## Seasonality cont.
+# Seasonality cont.
 
 To wrap up seasonality in a context outside of colour, I’ll keep it practical.
 Personally I live in a place that gets as low as -20 Celsius in the wintertime
@@ -416,7 +438,7 @@ being comfortable in the season and you can’t afford to buy femme equivalent(s
 for it, that’s ok. A wardrobe overhaul like this doesn’t happen overnight. If
 you live in a place with less seasonal variance, lucky you lol
 
-## Formality and fashion niches
+# Formality and fashion niches
 
 Big shake up now, we’re still in fashion fundamentals but it’s much less 
 something we can think of in a vacuum. At the simplest level, in public there
@@ -465,9 +487,17 @@ actual outfit, imma just slap some comfy shit on together. How far down the CBA
 scale one get away with without being out of place depends on where you live. 
 From my time living in the US, yeah you can get away with *a lot* in day-to-day
 activity outside of work, and many workplaces you can get away with CBA outfits
-as well. 
+as well. Now in some parts of the CBA category and an upcoming formality, I will
+also discuss articles of clothing which are largely found in men's fashion as
+well but I would still like to discuss to give an overview of some ways they
+may differ now with women's fashion, plus two specific feminine bottoms baby
+trans fems get obsessed with.
 
-Shoes? Legit pick whatever comfortable sneaker you desire. If you’re in a 
+# Articles of clothing
+
+## Shoes
+
+For shoes legit pick whatever comfortable sneaker you desire. If you’re in a 
 position to buy a pair of sneakers, please consider colour here. Sneakers are 
 often sold in some pretty bold colours, often with multiple colours together, 
 you get the idea. If you don’t yet have a pair in black and a pair in white (or
@@ -477,7 +507,13 @@ the two (or a black white combo, but even then one of the two will be the
 dominant colour). Technically you could wear a less comfortable shoe, but that
 kinda goes against the whole can’t be asked mindset. Shoes which aren’t sneakers
 can be comfy too, but generally the comfiest shoes in people’s wardrobes are 
-their sneakers, hence the selection here.
+their sneakers, hence the selection here. In level 2 I will discuss more fem
+cutesy shoes, but in practice for CBA and the upcoming athleisure and the
+streetwear, you can just pick the sneakers you like. As a frame of reference
+look at the sneakers of what well-dressed women are wearing, because there are
+some sneakers which are arguably too masc looking but I digress.
+
+## Pants intro
 
 Bottoms? Sweatpants and shorts is the start. This is also the first time we 
 encounter this very simple concept, girl if you’re buying clothes please buy in
@@ -506,6 +542,8 @@ that you could use here include jeans trousers and leggings if they’re comfy
 enough for you. Jeans and carog pants are technically a step up from sweatpants
 in terms of formality, but let’s be real here if we’re in the mindset of CBA 
 this doesn’t really matter, as long as the contrast of formality isn’t too much.
+
+## Leggings
 
 Leggings are also something I need to give a massive disclaimer on (as much as I
 know so many of us wanna wear them when we start out transitioning). There are
@@ -542,13 +580,16 @@ legs and waist pre-transition, and has had botton surgery on top of that. If
 you’re still really stubborn about this or found a magical pair of well-fitting
 leggings that is super comfy, there is one way to have it easily work out.
 
+## Tops intro
+
 That being, tops which go well below the waistline. Oversized shirts and 
 hoodies (I would opt for no zipper on hoodies here) are the go-to here, and 
 luckily they’re a CBA staple. Comfy article of clothing that’s big enough to 
 basically feel like a blanket? Sign me up! A cotton/crewneck sweater also works
 here while being a CBA staple, it’s just hoodies without the hood. If you never
 use the actual hood and don’t see aesthetic value in it, obviously go with 
-sweaters lol.
+sweaters lol. All you have to do is find said oversized hoodies shirts sweaters
+etc, but in the women's section, ok good luck!
 
 Technically we can also go with tighter items in the realm of CBA, but this is 
 rare regardless of what demographic is in the mindset and even more so with 
@@ -587,6 +628,8 @@ extremely limited set of items because it is, more items equals more thinking
 which goes against the whole point. The upcoming category is also fairly simple,
 but onwards it opens up *significantly* to the point that I can only mention a
 few suggestions out of the ocean out there. Anyways onto:
+
+# Formality cont.
 
 ## Athleisure
 
@@ -682,6 +725,10 @@ your future purchases to meld around them. From here onwards I will go over some
 articles of clothing which can be found in streetwear but are also yknow common
 articles of clothing.
 
+# Articles of clothing cont.
+
+## Hats
+
 Anyways hats. Now is a good time to talk about hats. Technically if it’s cold
 enough you can/should be wearing hats with CBA and athleisure (which btw do fall
 under streetwear as well but they had value in introducing independently), but
@@ -710,6 +757,8 @@ you for dressing more formal in a setting where most are casual/streetwear). The
 main thing is just if you spend a lot of time on hair, hats might get in the way
 (me if I grow my curly/wavy hair out), but then again you can spend time on your
 hair with a hat style in mind. Worth considering.
+
+## Skirts
 
 Now the item everyone’s been waiting for, skirts. Disclaimer, I personally
 almost never wear skirts, I have them but I just prefer the silhouette found
@@ -753,6 +802,8 @@ fact primarily made for streetwear, this is something you pick up on with time,
 or in the simpler cases there are sometimes skirts you can find from designers
 and/or brands which exclusively release streetwear stuff.
 
+## Coats
+
 Ok next broad item, coats. When I think of coats the first thing that comes to
 mind is pea coats, but the main takeaway is to think of this silhouette at a 
 simple level. There are some very elaborate coats out there, but this is fashion
@@ -772,7 +823,14 @@ coats. I will add, if you are in a location which has winters cold enough that
 you deem it appropriate to have full insulating parka(s), then I would suggest
 to get that in black, and the pea coat in either like a grey or lighter brown.
 I would lean towards the grey if you do not have much in the way of items in the
-muted blue various shades of brown whites etc office casual colour palette.
+muted blue various shades of brown whites etc office casual colour palette. Two
+really big upsides of specifically women's section coats whether pea coats
+trench coats whatever, are that shoulder pads are much less common, and the
+fabric to be cut and sown in a way that there is some tugging or emphasis around
+the waist. Neither of these are always the case, but can be pretty dang helpful
+for looking more feminine.
+
+## Jackets
 
 As far as parkas, puff jackets, down jackets whatever you want to call them, the
 poofy synthetic jackets that keep you especially warm, keep it simple stupid. I
@@ -795,6 +853,165 @@ problem. I would try and find a time every week to wash and dry them off, and
 remember that some of these are pretty sensitive to machine drying (which btw
 you should minimize machine drying whenever possible but hey if it's wintertime
 and you don't got indoor space like that I get it).
+
+## Boots
+
+Along with coats we can talk about their companion (well we already talked of
+hats so their other companion), boots! This is pretty simple actually, start
+with either a black or some other muted darker grey or brown leather boot (more
+on materials of clothing in level 3 if you're contesting me specifying it to be
+leather). This can be doc martens (I will say they are apparently not as good in
+terms of quality to price ratio these days, so you could research for better
+brands of the same type of boots), chelsea boots, some other combat boots that
+are not doc martens, whatever. Just have one reliable pair of dark, preferabbly
+black waterproof leather boots and that will keep you solid. If you're one of
+those people lucky enough to live somewhere without winter well uh I would still
+suggest some waterproof boots maybe just not as insulating but to be honest
+usually these are not too hot. And if you don't have much rain either, well 
+first screw you dude must be nice, but second you can maybe get a lightweight
+suede boot or pumps (this is a women's only type of boots with a hefty heel) as
+your first pair of boots. I think that covers enough for this level.
+
+## Buttonless shirts
+
+I don't think I went deep enough into this category so I will only say this
+much, for starters I would just stick to t-shirts. For longsleeve stuff, outer
+layers like a hoodie or crewneck sweater or a proper woven sweater read as much
+more fem than a longsleeve shirt, which will either be very boxy if running
+loose and in a bad/masc presenting way, or will highlight your arm/shoulder
+muscle definition much more than you'd like if it is running more form fitting.
+Basically, start with looser/oversized women's t-shirts when earlier in
+transition, and maybe a year or so later or if you get very fast noticeable
+breast development then by whenever that happens, you could pair a flattering
+bra with a more form-fitting t-shirt (not tight might you, moreso enough to show
+the breast definition).
+
+Tank tops are also arguably a thing to mention here, but this really depends on
+what you are comfortable with, how your silhouette is/has gone along etc. For
+example I personally wear tank tops a fair bit, but I also have had a reasonable
+amount of muscle atrophy to wear sure I still have muscles in my arms but it
+doesn't hard read as masc, plus some reasonable breast development means that
+it combined with a bra that may be more visible depending on how loose the tank
+top is leads to a fairly female-reading item.
+
+## Bomber jackets
+
+Ok I'll be real, this one was one of the hardest pills I had to swallow. There
+was this really nice reversible navy and teal bomber jacket I had which I ended
+up giving away, because as awesome as it was, the basic bomber jacket makes one
+look very puffy, boxy, wide-shouldered, masculine. Men's bomber jackets are
+basically an impossibility to make read as female during early transition, so
+they realistically gotta go, if you go and buy women's section bomber jackets
+they will realistically still be boxy, but may just like tug a little around
+your waist more (not like that matters when you have them open and unzipped). I
+think there is a space for quite oversized bombers as like a third layer over a
+hoodie or sweater that goes well below the "male waistline", and there are some
+modified women's bomber jackets I've seen which run low like a dress or
+something, but these are the exceptions to the rule. o7
+
+## Socks
+
+This might sound weird, but generally with women's fashion socks are not really
+part of the equation. If you have some practical reason for showing socks sure
+go ahead, but usually the situation is either something like "it's warm seasons
+and you wear no-show socks with sneakers/shoes", "it's cold seasons and your
+boots and pants cover your warmer socks", "it's intermediate weather so your
+pants or leggings cover your shoes a bit which cover your socks" etc. There are
+some fringe cases, but I would just keep it simple if you're new to this fashion
+stuff and try and hide your socks. Whenever it is warm weather for you, I would
+strongly encourage you have some no-show socks (remember to do this in a way to
+keep your achilles healthy! if done poorly your shoes could scratch the back a
+lot).
+
+## Cardigans
+
+Cardigans arguably go in the next up tier of formality but ehhh whatever. This
+category of clothing tends to be significantly different with women's clothing.
+Basically, there is a common type of cardigan that is very loose and flowly,
+often no buttons like the two flaps aren't really meant to connect to each
+other, and they run very long like well below "male waistline". These are a very
+very helpful article of clothing for looking fem and de-emphasizin shoulders. I
+will however add, early on it is good to avoid specifically the thinner fabric
+types of these cardigans and go for chunkier ones. This may sound weird but
+basically it can look a little off with early transition bodies if we have thin
+dainty cardigans on. Chunkier pieces not just hear but for our wardrobe in
+general work better for the often more rigid silhouette and features trans fems
+have early on in transition. However, it may still be worth getting one or two
+of these cardigans in thinner cuts if they are to go with other equally or even
+more thin fabrics for the top underneath and the pants during warmer weather and
+vibes, something to keep in mind.
+
+## Backpacks
+
+So backpacks are still a thing here, I would try and avoid those massive nerdy
+usually black bagpacks with a bajillion pockets and thingies. Before anyone
+takes offense, I actually have one of these bags, but it's only there for
+specific functions ie groceries or some outdoorsy thing that needs big space. In
+most instances, as an adult, you really do not need that much room, and to be
+frank they just don't look nice. Those Fjallraven backpacks you see a lot of the
+girlies wearing are indeed quite nice and reasonale quality, but like you really
+don't have to get it or anything if you don't want to, I don't even think they
+read particularly fem there's just a lot of women in their 20s/30s in the west 
+who wear them, it's like the women's backpack version of patagonia sweater
+dudes. I guess I will use this moment to touch on a topic I already did with the
+doc martens a bit: a lot of brands where you see specific articles of clothing
+from them being commonly worn by women, will inevitably fall of a cliff in
+quality, because god forbid women actually have high quality durable clothing or
+something. Fjallraven from what I can tell is starting to do that, they're still
+reasonably good bags but for their price points you can definitely get better.
+Personally as my "nice backpack" I got this like intermediate sized waterproof
+bag from mountain warehouse for a really solid price like well over half what
+fjallraven bags run you and it is very good. I should also say here, backpacks
+are something I would say unfortunately is tough to get second hand. It's
+possible of course, but for your staple bags that you use on a day to day basis,
+I would try and get a plain looking backpack that is of a seemingly high-quality
+build, then past that it's up to you. I should also state here that yes, one
+again the just get black rule applies, or at least one of your everyday bags
+should be black. Bags are an item which depending on your lifestyle tend to be
+worn around fairly often, so either it's gonna be you keep it black or something
+else that's muted and get your pops of colour elsewhere, or it's of a specific
+colour but then your wardrobe kinda has to get build around the bag especially
+if it's a high quality bag you put some nice funds in and what to keep around
+for the long haul. I hope that helps, but yeah basically just keep things
+simple and high quality, look around for what sort of bags younger adult women
+are wearing and try using that as a frame of reference. In this case, one thing
+to look out for are like these comically small/luxurious looking leather and
+possibly metallic-accented backpacks I've seen some of the girlies wearing. I
+would advise against that because A: those are kinda limited in what they can be
+worn with and B: are less forgiving to people with larger/less stereotypically
+feminine figures (both trans and cis don't get it twisted), whereas the more
+like canvas-ey material bags are much more unisex arguably. I mention the
+fjallraven brand because their smaller backpacks can serve as a pretty good
+frame of reference for what sort of backpacks will look good and versatile in a
+more casual and streetwear context (generally backpacks are not worn in more
+formal contexts, more on that later), that can be worn by ladies cis and trans
+of all sorts of figures and aesthetics without much worry.
+
+## Side bags
+
+At this point tote bags have become fairly popular, so hopefully the average
+reader has a reasonable idea of what I'm talking about. You could also just
+think of this as more moderately sized or even bigger purses that fall off the
+side of someone. There are tote bags which are literally just one fabric opening
+which I guess have their place, but as a genuine everyday item I would stick to
+something that has at least a bit of compartments and more importantly a zipper
+or a folded over secure button seal to actually keep things inside the bag. Lots
+of materials work here as far as the bag is concerned, various types of cotton,
+leather, some synthetic stuff if going for a more techwear look or ie to
+compliment a synthetic parka etc. Generally you want these bags to fall around
+your hips when hung over your shoulder, this makes them do this cool thing where
+it emphasizes your hips more wowie. If you have life circumstances where you can
+get away with wearing a side bag over a backpack on most days then I say sure
+you can definitely make the side bag be your main high quality bag. For this tho
+I will give a disclaimer, I think it's pretty hard to give specific examples of
+what sort of bag would be most appropriate for a given person and style and the
+like, so I would recommend researching this quite a bit and maybe having a
+girlie friend go shopping/looking with you for the bag. I will try and
+prioritize getting picture/outfit examples of the bags I am thinking of into
+this part of the guide as one of the earliest, but no promises unfortunately as
+I'm quite busy ugh.
+
+# Formality cont.
 
 ## Semi-formal
 
@@ -866,7 +1083,31 @@ would say it is quite applicable. With all that said you could absolutely be
 someone who presents more streetwear in such circumstances and nobody will realy
 bat an eye if the outfit is put together competently, it's moreso in the next 
 category where you kinda need to be following it if there is an event that calls
-for it.
+for it. I will now talk about a couple of articles of clothing technically
+present in men's fashion as well, that do not quite fit into streetwear.
+
+## Blazers
+
+So some fun things that tend to be different with women's blazers: common to
+find them following "women's waistile" maybe not like the bottom of it cuts off
+there, but can go a bit lower but still not as low as average men's blazers, and
+there tends to be much more of the pinching of waists found in women's blazers.
+On the other hand, you can also find blazers that go well below the hips so
+again that 40:60 thing I mentioned. You can still find blazers that have
+shoulder pads, but can also find plenty without padding or structure there which
+is a pretty big deal for those of us who want to de-emphasize our shoulders.
+There is also much less expectation to wear a matching set of slacks with a
+blazer in women's fashion, which both allows ome more interesting outfits and
+helps in terms of budget. Overall, pretty cool!
+
+## Button-up shirts
+
+The fundamental main difference with women's button ups tends to be that they
+are intended to run fairly loose. Like there's some room to unbutton a bit near
+the top and give a poof, have some room for the boobies to breathe, you get the
+idea I hope. May or may not tug around the waist more.
+
+# Formality cont.
 
 ## Formal
 

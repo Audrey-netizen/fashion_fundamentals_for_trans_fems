@@ -1,4 +1,4 @@
-## Materials
+# Materials
 
 Just as I have with previous sections, some (ok much) of this content will be
 quite introductory but I believe it to be appropriate and in many cases needed
@@ -126,7 +126,7 @@ sure I don't see why not. If you find an item of one of these materials second
 hand for a nice enough deal, awesome!
 
 
-## Cuts
+# Cuts
 
 So this is the section I mentioned in the preword where I do not feel super
 comfortable writing as "comprehensive info". There are two broad categories to
