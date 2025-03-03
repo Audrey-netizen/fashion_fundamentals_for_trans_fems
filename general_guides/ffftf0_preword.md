@@ -59,7 +59,7 @@ are simply interested in fashion) and don’t know where to start.
 For simplicity’s sake, let’s think of fashion in our contexts in 5 levels. 
 Level 1
   Fashion fundamentals
-    Baby steps ok? Colour, seasonality, formality, versatility, basic items etc
+    Baby steps ok? Colour, seasonality, formality, versatility, layering etc
 Level 2
   Distinctions of women's fashion
     Hmm why woman label shirt different than man label shirt

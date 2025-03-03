@@ -12,6 +12,32 @@ it ends up being up to the individual how feminine they want to present with
 clothing. There is not much in the way of specific guides at this point, it is
 more some thoughts to munch on.
 
+I mention before when starting to talk about alt girl fashion that I prefer
+figuring out one's own fashion identity over sticking to more identifiable
+subcultures, but that comes with tradeoffs, namely difficulty. Just learning the
+foundational skills for how to dress competently, fashionable, fem presenting is
+a lot to pick up as is, so I can understand the desire to shift into a cohesive
+look without much effort. Ultimately, if you're not passionate about fashion,
+which is very fair enough I'm not sure I am either, it's perfectly reasonable to
+go into a specific sort of look. Combine that with the foundational skills from
+earlier, and you will probably look damn good given enough time. The thing is,
+you will also probably look damn good with just the fundamental skills and a
+fairly basic but versatile wardrobe. Ideally, of those given niches brought up 
+in the last level or any others I did not mention, if you are to follow through
+with one I would at least hope you genuinely think you're a fan of it too, or
+just think it looks really cool. Likewise, I do not think there is much value in
+personal fashion actualization unless you're in it for the love of the game. I
+do not expect anyone to know if they are genuinely interested in creating a
+style and wardrobe that is uniquely theirs at this point, when the basics are
+not even done yet. But generally, most people do not care about this stuff, and
+that includes cis women. You are not pressured into being passionate about
+cosmetics and fashion and stuff just because you're trans. That's kind of the
+point of this guide, for the most part it is quite cold and logical, segmented
+or however else you want to describe it. Still tho, even if you're really
+confident you hate this fashion stuff and just want to do the basics like just
+levels 1-4 or 1-3, there is some useful info here, like the upcoming section on
+hair.
+
 ## Hair
 
 It might be strange that it took me this long to bring up hair, or that I am
@@ -116,48 +142,46 @@ skip over things which are basic pieces of knowledge to cis girlies but not the
 average reader of this guide). You can do eyebrow slits piercings etc if you
 want, usually this will result in being read as more punky and queer, up to you.
 
-# Fashion subcultures
+Hair anywhere else that can be seen, yeah that stereotypically should go. Sorry,
+I don't make the rules. A bit of thin hair is fine, but generally in the current
+society we live in that expects a bajillion things out of women, no facial hair
+and no body hair is the default. Most of us are already kinda not default in
+some body traits compared to the societally enforced norm of "a woman", so I
+would advise to most people to not make this harder for themselves and in the
+long run plan facial hair arm hair leg stomach whatever hair to effectively be
+gone or very fine/limited. Pubic hair, uhh that's up to you big dawg you live
+your life.
 
-## Alt girlies
+# Queer identity
 
-I start with this group not because it starts with A, but because from my
-experience a lot of trans girls want to dress like this one way or another. But
-before I continue, ask yourself why you want to dress like this. Is there
-anything about the style which speaks to you? Do you think it just looks cool or
-hot and you want to follow suit? What do you think of the stereotypes associated
-with it? Generally I would advise against really sticking to just this fashion
-subculture for a really long time as it can be a bit limitation, but I can see
-its upside as guides or frames of reference too. These tradeoffsand questions
-are very much so for you to figure out. This should be asked for any fashion 
-niche if you're really trying to go into, but I will only mention it once here.
-Full disclosure, generally I lean pretty heavily into learning the fundamentals
-first and the figuring out what works for you and how to end up with a unique
-wardrobe, but I understand that is not for everyone, and either way talking
-about some subcultures can be helpful.
+Whether you identify with "queer culture" or not, you are unavoidably an LGBTQ+
+individual. If you for whatever reason or perhaps safety necessity really do not
+want to be perceived as queer-looking, then I would recommend making your hair,
+fashion/clothes, and makeup as straight woman-coded as possible. So look at how
+"straight presenting women" around your age dress in day-to-day life, and try
+and emulate that or at least emulate it but in a way that is complimentary to
+traits of yours like your height physique head shape proportions etc if any of
+that is different from the individuals you see. Or even not just "straight
+presenting women" but conservative looking women.
 
-So what even is alternative style? Uhhh, it's a weird question to ask the same
-way it is for alternative music. Alternative rock is kinda easy, it's weird rock
-that might turn some people off by being a bit or a lot technical but get others
-hooked, alternative music idek. Apparently boygenius is alternative music? Ok
-anyways, these days in western english speaking cultures alternative womens
-fashion tends to have: a lot of black, combat boots that can run quite tall,
-some form of pale or unnatural hair dye paired with black (like one side of
-bangs is blonde or the inside part visible around the neck of one's hair is
-dyed red), a bit of flannels, a lot of fishnets (fun beginner tip you can just
-take leg fish nets and make them arm fish nets), flaired skirts, dark wash
-denim, a bit of some dark greys as well if you're feeling feisty, maybe even
-some other actual colours too ooh (but pretty much only as accents!), oversized
-tops are quite common, chokers can be too. This is also very adjacent to the
-femboy choker striped long socks stereotype, which makes it not surprising that
-it is so common to see trans girls interested in this look. Luckily, alt girl
-stuff that is not the femboy strereotypes (ie you can have a choker from time to
-time but let's chill out on the ones that are blatantly kink-adjacent stuff, no
-striped socks but fishnets and tights work) can be fairly competent as outfits
-and as a background to a wardrobe. I think the biggest upsides of this fashion
-subculture for the early trans fem audience are that there is a lot of black and
-other darker colours, and the common presence of oversized tops shirts crewneck
-sweaters hoodies etc, and I suppose chokers too as they can take attention away
-from any prominent trachea stuff if testosterone did you dirty in that way too.
-Putting aside functionality
+Now if you do identify with queer culture, do you want to visibly show queer
+pride stuff or look more stereotypically queer even trans traits aside, or do
+you just wanna go about your day and don't mind if you're perceived as trans
+and/or queer in some other way? With the former it's pretty simple, you can wear
+pride colour stuff, lots of pins, and also move into some "stereotypical lesbian
+looking stuff" with fashion. Personally I very much fall into this category, and
+yes it is definitely in some ways like the fashion niches/subcultures I was
+talking about, I don't mind it because I value showing to the world somewhat
+explicitly that yes I am very queer and also I'm just chilling, what's up. 
+Before anyone says shit yes I am lesbian frfr, but also pan and bi trans fems
+can very validly dress like this as well. I guess you can as a straight trans
+girl aka unicorn too, but be ready to clear up misunderstandings perhaps? For
+the latter, you can just go about without considering this stuff, these days
+especially with younger women's fashion a lot of stuff takes from more mens
+clothing categories especially if you lean more into streetwear, so many girlies
+just kinda exist as is without looking explicitly queer, but that in a way makes
+it so if you just dress with a lot more streetwear and less explictly fem stuff
+like sundresses or jeggings or whatever, it can kinda get read as more queer
+depending on the person?
 
-## Girlypop
+

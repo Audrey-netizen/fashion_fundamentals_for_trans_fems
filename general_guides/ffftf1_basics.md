@@ -1140,4 +1140,7 @@ before (which I just want to say is ok and valid, please don't feel bad, this
 guide is made for you <3), then streetwear will likely be the most difficult as
 it is the most expressive category overall on a practical basis and will be what
 is worn outside and perceived by others most often for a majority of readers.
-Onto level 2!
+Onto talking about layering!
+
+# Layering
+
