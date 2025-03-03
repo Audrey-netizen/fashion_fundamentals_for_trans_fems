@@ -1,7 +1,6 @@
 ## Reading guide
 
-Structurally, this guide is a set of plain English text-based markdown documents
-sorted out in a set of folders/directories meant to be logical. For now there is
+I'm gonna get some formatting stuff out of the way first here. For now there is
 only this text, but later updates of this guide will hopefully have both some
 images or video links of the concepts and items I am discussing, and once that
 is done get some pictures of outfits of my own relevant to a given part of the
