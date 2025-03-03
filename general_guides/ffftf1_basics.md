@@ -796,7 +796,7 @@ mentioned earlier about le bulge, skirts are valuable as a bottom where as long
 as you get looser ones (which is most skirts fortunately) as long as you learn
 skirt posture and movements, le bulge is hidden. So pants and skirts that are 
 not too tight can arguably be the predominant types of bottoms for trans femmes
-who don’t have srs either voluntarily or involuntarily. It is also worth noting
+who don’t have le buldge and don't wanna tuck too much. It is also worth noting
 that some styles/fabrics/cuts of skirts work better for streetwear or are in
 fact primarily made for streetwear, this is something you pick up on with time,
 or in the simpler cases there are sometimes skirts you can find from designers
