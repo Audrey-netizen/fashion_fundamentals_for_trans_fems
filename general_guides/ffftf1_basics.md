@@ -1144,3 +1144,12 @@ Onto talking about layering!
 
 # Layering
 
+Aside from a basic understanding of colours in fashion and how different cuts,
+patterns, and textures of clothing worth together, layering is probably the most
+important introductory skill with fashion, or arguably the outright most
+important. If you live in a consistently warm environment maybe you don't really
+care about this, but even then I would say you could at least learn what sort of
+bags make sense to put over what sort of tops/outfits, and stuff like a light
+linen or cotton cardigan can be quite helpful (more on materials in level 3).
+But as soon as temperatures go below 20 degrees (that's in actually logical
+measurement of temperature by the way, no freedom units here)
